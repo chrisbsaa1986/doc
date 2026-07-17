@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 87,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 79,
+          "Current": 97,
           "Maximum": 100
         },
         "Temperature": {
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1784314883,
+        "UpdateTime": 1784315935,
         "Immortal": false
       },
       "Inventory": {
@@ -7916,7 +7916,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 2793,
+            "Progress": 3857,
             "inProgress": true,
             "StartTimestamp": 1784312166,
             "SkipTime": 0,
@@ -8680,7 +8680,7 @@
         "HideoutCounters": null,
         "Seed": "b86500fa336c2f86ead946afeb613ceb",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784314953,
+        "sptUpdateLastRunTimestamp": 1784316017,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
