@@ -65,7 +65,7 @@
           "Maximum": 100
         },
         "Energy": {
-          "Current": 75,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -117,7 +117,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1784324872,
+        "UpdateTime": 1784326128,
         "Immortal": false
       },
       "Inventory": {
@@ -181,16 +181,16 @@
           {
             "_id": "6a5958ba7193827b0c44c8b6",
             "_tpl": "5ca20abf86f77418567a43f2",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a5a4cfafdc7c14dd8b2697f",
+            "slotId": "main",
             "location": {
-              "x": 2,
-              "y": 26,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
               "Foldable": {
-                "Folded": true
+                "Folded": false
               }
             }
           },
@@ -223,13 +223,13 @@
             "parentId": "664113fa049fd2369707c4eb",
             "slotId": "hideout",
             "location": {
-              "x": 2,
-              "y": 25,
+              "x": 6,
+              "y": 52,
               "r": "Horizontal"
             },
             "upd": {
               "Foldable": {
-                "Folded": true
+                "Folded": false
               }
             }
           },
@@ -373,11 +373,11 @@
           {
             "_id": "6a5958ba7193827b0c44c8de",
             "_tpl": "5ca20d5986f774331e7c9602",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a5958ba7193827b0c44c976",
+            "slotId": "7",
             "location": {
-              "x": 1,
-              "y": 25,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -389,11 +389,11 @@
           {
             "_id": "6a5958ba7193827b0c44c8df",
             "_tpl": "5ca20d5986f774331e7c9602",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a5958ba7193827b0c44c976",
+            "slotId": "6",
             "location": {
               "x": 0,
-              "y": 25,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -1153,11 +1153,11 @@
           {
             "_id": "6a5958ba7193827b0c44c92b",
             "_tpl": "5d5d940f86f7742797262046",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a5958ba7193827b0c44c976",
+            "slotId": "11",
             "location": {
-              "x": 2,
-              "y": 23,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -4798,12 +4798,12 @@
             "slotId": "hideout",
             "location": {
               "x": 0,
-              "y": 23,
+              "y": 54,
               "r": "Horizontal"
             },
             "upd": {
               "Foldable": {
-                "Folded": true
+                "Folded": false
               }
             }
           },
@@ -5936,11 +5936,11 @@
           {
             "_id": "6a5a869833ee353940b77aca",
             "_tpl": "628baf0b967de16aab5a4f36",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a5958ba7193827b0c44c976",
+            "slotId": "8",
             "location": {
-              "x": 4,
-              "y": 23,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -11255,7 +11255,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 28496,
+            "Progress": 29459,
             "inProgress": true,
             "StartTimestamp": 1784296749,
             "SkipTime": 0,
@@ -11866,7 +11866,7 @@
         "HideoutCounters": null,
         "Seed": "d5db93434ad82357bbed8258f249fd83",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784325238,
+        "sptUpdateLastRunTimestamp": 1784326201,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -12854,7 +12854,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1735145474,
+        "nextResetTime": 1735318274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
