@@ -117,7 +117,7 @@
             }
           }
         },
-        "UpdateTime": 1784412874,
+        "UpdateTime": 1784413281,
         "Immortal": false
       },
       "Inventory": {
@@ -12339,7 +12339,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 181,
+            "Progress": 900,
             "inProgress": true,
             "StartTimestamp": 1784412949,
             "SkipTime": 0,
@@ -12940,7 +12940,7 @@
         "HideoutCounters": null,
         "Seed": "b86500fa336c2f86ead946afeb613ceb",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784413123,
+        "sptUpdateLastRunTimestamp": 1784413842,
         "Customization": {
           "Wall": "68df9b2e3772634bf40f4f1c",
           "Floor": "68df9a2d3772634bf40f4f1a",
