@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1784412942,
+        "UpdateTime": 1784413354,
         "Immortal": false
       },
       "Inventory": {
@@ -1014,13 +1014,12 @@
           {
             "_id": "6a5bf87767f0dd3600201f99",
             "_tpl": "590c661e86f7741e566b646a",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a5bf87767f0dd3600201f4c",
+            "slotId": "8",
             "location": {
               "x": 0,
-              "y": 44,
-              "r": 0,
-              "isSearched": true
+              "y": 0,
+              "r": "Vertical"
             }
           },
           {
@@ -5192,7 +5191,7 @@
         "HideoutCounters": null,
         "Seed": "77e1f2b67ba2c7db09cf147ac1db3f1c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784413123,
+        "sptUpdateLastRunTimestamp": 1784413842,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5433,7 +5432,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1718556674,
+        "nextResetTime": 1718643074,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
