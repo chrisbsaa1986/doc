@@ -20,7 +20,7 @@
         "LowerNickname": "doc",
         "Side": "Bear",
         "Level": 8,
-        "Experience": 43453,
+        "Experience": 43493,
         "RegistrationDate": 1784212349,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -117,7 +117,7 @@
             }
           }
         },
-        "UpdateTime": 1784368537,
+        "UpdateTime": 1784369061,
         "Immortal": false
       },
       "Inventory": {
@@ -4567,8 +4567,13 @@
           {
             "_id": "6a58eb7d910bf54a34431c38",
             "_tpl": "619bc61e86e01e16f839a999",
-            "parentId": "6a58eb7d910bf54a34431aa7",
-            "slotId": "ArmBand"
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 37,
+              "r": "Horizontal"
+            }
           },
           {
             "_id": "6a5a869833ee353940b74f01",
@@ -6020,6 +6025,61 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "6a5b51f264b69632b46ef964",
+            "_tpl": "68d41f017cb8c03da8079004",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 5,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a5b51f264b69632b46ef965",
+            "_tpl": "68d41e65a706eba9a204ed27",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 6,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a5b51f264b69632b46ef966",
+            "_tpl": "68d41fb0a1c275dbaa0798bf",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 37,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a5b51f264b69632b46ef967",
+            "_tpl": "68d41fde2937f3f17c04864d",
+            "parentId": "6a58eb7d910bf54a34431aa7",
+            "slotId": "ArmBand",
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "6a58eb7d910bf54a34431aa7",
@@ -6097,10 +6157,10 @@
             "Progress": 247.780212
           },
           {
-            "PointsEarnedDuringSession": 17.5,
-            "LastAccess": 1784368767,
+            "PointsEarnedDuringSession": 19.5,
+            "LastAccess": 1784369717,
             "Id": "Intellect",
-            "Progress": 19.5
+            "Progress": 21.5
           },
           {
             "PointsEarnedDuringSession": 3.79958868,
@@ -10027,7 +10087,11 @@
         "6582dbe43a2e5248357dbe9a": false,
         "64d4b23dc1b37504b41ac2b6": false,
         "63a39c7964283b5e9c56b280": false,
-        "5d80c6c586f77440351beef1": false
+        "5d80c6c586f77440351beef1": false,
+        "68d41f017cb8c03da8079004": false,
+        "68d41e65a706eba9a204ed27": false,
+        "68d41fb0a1c275dbaa0798bf": false,
+        "68d41fde2937f3f17c04864d": false
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -10786,7 +10850,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 312,
+            "Progress": 1122,
             "inProgress": true,
             "StartTimestamp": 1784368662,
             "SkipTime": 0,
@@ -11386,7 +11450,7 @@
         "HideoutCounters": null,
         "Seed": "b86500fa336c2f86ead946afeb613ceb",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784368970,
+        "sptUpdateLastRunTimestamp": 1784369780,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -11688,7 +11752,12 @@
       },
       "Achievements": {
         "65141c30ec10ff011f17cc3b": 1784214753,
-        "65141e37cf2f1c285e606361": 1784314813
+        "65141e37cf2f1c285e606361": 1784314813,
+        "6948990c05f4f91bdb9a56f3": 1784369575,
+        "694c5cae0256a6bd999a5721": 1784369575,
+        "694c5527d1d40bd7db9a571a": 1784369628,
+        "694c60b50cb1e6ad639a5723": 1784369650,
+        "6948996f192a4d4fc09a56f7": 1784369751
       },
       "RepeatableQuests": [
         {
@@ -11980,7 +12049,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1731257474,
+        "nextResetTime": 1731430274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -11998,7 +12067,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 1,
-        "Experience": 952,
+        "Experience": 992,
         "RegistrationDate": 1784212349,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -12656,7 +12725,11 @@
         "6582dbe43a2e5248357dbe9a": false,
         "64d4b23dc1b37504b41ac2b6": false,
         "63a39c7964283b5e9c56b280": false,
-        "5d80c6c586f77440351beef1": false
+        "5d80c6c586f77440351beef1": false,
+        "68d41f017cb8c03da8079004": false,
+        "68d41e65a706eba9a204ed27": false,
+        "68d41fb0a1c275dbaa0798bf": false,
+        "68d41fde2937f3f17c04864d": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -13055,6 +13128,426 @@
         }
       ],
       "_id": "6a5a35eefdc7c14dd8ad8a81"
+    },
+    "6723fd51c5924c57ce0ca01e": {
+      "attachmentsNew": 0,
+      "new": 20,
+      "type": 1,
+      "Users": [
+        {
+          "_id": "6723fd51c5924c57ce0ca01e",
+          "aid": 1234566,
+          "Info": {
+            "Nickname": "Commando",
+            "Side": "Usec",
+            "Level": 1,
+            "MemberCategory": 1,
+            "SelectedMemberCategory": 1
+          }
+        }
+      ],
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a5b517364b69632b46eeb69",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369523,
+          "text": "spt givemealltheclother",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b517364b69632b46eeb6a",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369523,
+          "text": "I'm sorry soldier, I don't recognize the command you are trying to use! Type \"help\" to see available commands.",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b517b64b69632b46eeb6b",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369531,
+          "text": "help",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b517b64b69632b46eeb6c",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369531,
+          "text": "The available commands will be listed below:",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b517c64b69632b46eeb6d",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369532,
+          "text": "Commands available for \"spt\" prefix:",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b517e64b69632b46eeb6e",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369534,
+          "text": "Subcommand trader:\nspt trader \n ======== \n Sets the reputation or money spent to the input quantity through the message system.\n\n\tspt trader [trader] rep [quantity]\n\t\tEx: spt trader prapor rep 2\n\n\tspt trader [trader] spend [quantity]\n\t\tEx: spt trader therapist spend 1000000",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b517f64b69632b46eeb6f",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369535,
+          "text": "Subcommand profile:\nspt profile\n========\nSets the profile level or skill to the desired level through the message system.\n\n\tspt profile level [desired level]\n\t\tEx: spt profile level 20\n\n\tspt profile skill [skill name] [quantity]\n\t\tEx: spt profile skill metabolism 51",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518064b69632b46eeb70",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369536,
+          "text": "Subcommand give:\nspt give\n========\nSends items to the player through the message system.\n\n\tspt give [template ID] [quantity]\n\t\tEx: spt give 544fb25a4bdc2dfb738b4567 2\n\n\tspt give [\"item name\"] [quantity]\n\t\tEx: spt give \"pack of sugar\" 10\n\n\tspt give [locale] [\"item name\"] [quantity]\n\t\tEx: spt give fr \"figurine de chat\" 3",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518164b69632b46eeb71",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369537,
+          "text": "Subcommand givemealltheclothes:\nUsage: Unlocks all Black Division, RUAF, and Civilian customizations",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518264b69632b46eeb72",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369538,
+          "text": "Subcommand backstabber:\nUsage: Unlocks access to all post 1.0 Arena/Battlepass clothing",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518364b69632b46eeb73",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369539,
+          "text": "Subcommand ibeatthegameiswear:\nUsage: Receive all four endings customizations (dogtags, hideout, main menu environments, armbands, etc)",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518464b69632b46eeb74",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369540,
+          "text": "Subcommand nikitasvoice:\nUsage: Receive Nikita's Voice",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518564b69632b46eeb75",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369541,
+          "text": "Subcommand shutupandtakemyroubles:\nUsage: Receive all preorder/beta content",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518664b69632b46eeb76",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369542,
+          "text": "Subcommand 67prestige:\nUsage: Receive Prestige 5 and 6 content",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b518764b69632b46eeb77",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369543,
+          "text": "Subcommand twitchguytwitchguytwitchguy:\nUsage: Receive all post 1.0 Twitch drop content",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b519164b69632b46eeb78",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369553,
+          "text": "givemealltheclothes",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b519164b69632b46eeb79",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369553,
+          "text": "I'm sorry soldier, I don't recognize the command you are trying to use! Type \"help\" to see available commands.",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b51a764b69632b46ef94c",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369575,
+          "text": "spt givemealltheclothes",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b51a764b69632b46ef94d",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369575,
+          "text": "This REQUIRES a main menu refresh/reload in order to receive the achievement and unlock the Clothing",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b51a764b69632b46ef94e",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369575,
+          "text": "This REQUIRES a full game restart in order to see the new Head and Voice options.",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b51dc64b69632b46ef94f",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369628,
+          "text": "spt backstabber",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b51dc64b69632b46ef950",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369628,
+          "text": "This REQUIRES a main menu refresh/reload in order to receive the achievement and unlock the Clothing",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b51f264b69632b46ef951",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369650,
+          "text": "spt ibeatthegameiswear",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b522764b69632b46f0710",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369703,
+          "text": "spt nikitavoice",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b522764b69632b46f0711",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369703,
+          "text": "I'm sorry soldier, I don't recognize the command you are trying to use! Type \"help\" to see available commands.",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b523464b69632b46f0712",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369716,
+          "text": "sptnikitasvoice",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b523464b69632b46f0713",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369716,
+          "text": "I'm sorry soldier, I don't recognize the command you are trying to use! Type \"help\" to see available commands.",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b523e64b69632b46f0714",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369726,
+          "text": "spt nikitasvoice",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b523e64b69632b46f0715",
+          "uid": "6723fd51c5924c57ce0ca01e",
+          "type": 1,
+          "dt": 1784369726,
+          "text": "This REQUIRES a full game restart in order to use Nikita's Voice",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a5b525764b69632b46f16f7",
+          "uid": "6a58eb45910bf54a344317f6",
+          "type": 1,
+          "dt": 1784369751,
+          "text": "spt shutupandtakemyroubles",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        }
+      ],
+      "_id": "6723fd51c5924c57ce0ca01e"
+    },
+    "59e7125688a45068a6249071": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 7,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a5b51f264b69632b46ef963",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1784369650,
+          "text": "Endings rewards sent! Enjoy you filthy cheater!",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5b51f264b69632b46ef962",
+            "data": []
+          },
+          "maxStorageTime": 172800
+        },
+        {
+          "_id": "6a5b525764b69632b46f16f9",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1784369751,
+          "text": "Preorder rewards sent! Enjoy you filthy cheater!",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a5b525764b69632b46f16f8",
+            "data": [
+              {
+                "_id": "6a5b525764b69632b46f16fa",
+                "_tpl": "68f8e04eae031982b00e7aaf",
+                "parentId": "6a5b525764b69632b46f16f8",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6a5b525764b69632b46f16fb",
+                "_tpl": "68f8ccbc4c78615ba6079b20",
+                "parentId": "6a5b525764b69632b46f16f8",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6a5b525764b69632b46f16fc",
+                "_tpl": "68f25be683ec644ebf046787",
+                "parentId": "6a5b525764b69632b46f16f8",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6a5b525764b69632b46f16fd",
+                "_tpl": "68f8ccb11cc53ada67036e27",
+                "parentId": "6a5b525764b69632b46f16f8",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6a5b525764b69632b46f16fe",
+                "_tpl": "68f8ccf06a6869fe97026c3b",
+                "parentId": "6a5b525764b69632b46f16f8",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "6a5b525764b69632b46f16ff",
+                "_tpl": "68fb9480e6ad35a767066feb",
+                "parentId": "6a5b525764b69632b46f16f8",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "59e7125688a45068a6249071"
     }
   },
   "spt": {
@@ -13128,6 +13621,16 @@
       {
         "giftId": "PraporGiftDay1",
         "timestampLastAccepted": 1784310402,
+        "current": 1
+      },
+      {
+        "giftId": "ibeatthegameiswear",
+        "timestampLastAccepted": 1784369650,
+        "current": 1
+      },
+      {
+        "giftId": "shutupandtakemyroubles",
+        "timestampLastAccepted": 1784369751,
         "current": 1
       }
     ],
@@ -13203,6 +13706,246 @@
       "id": "675697337a69ab97c30a09f8",
       "source": "unlockedInGame",
       "type": "suite"
+    },
+    {
+      "id": "68a6fb5ca1eb443ead010e8a",
+      "source": "default",
+      "type": "head"
+    },
+    {
+      "id": "68a6fb6d62b09585f80dd73b",
+      "source": "default",
+      "type": "head"
+    },
+    {
+      "id": "68a6fb7a226a60005506faff",
+      "source": "default",
+      "type": "head"
+    },
+    {
+      "id": "68a6fb8ac8a3ef285c060b7b",
+      "source": "default",
+      "type": "head"
+    },
+    {
+      "id": "68e7a025dcdb0a85f4046d69",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68e7a04c481f58ac9702afb4",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68e7a05e2da4d083ce0f2146",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68e7a0773f9907cd5508dbcc",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "6899fcdea469e729c40cbbde",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "6899fff4c17f776ecb07fafd",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68a322944dc8ea81b603528f",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68a322c44dc8ea81b6035293",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68fb63be323974a4ae011df8",
+      "source": "default",
+      "type": "environment"
+    },
+    {
+      "id": "68fb638ebe7aff394b016818",
+      "source": "default",
+      "type": "environment"
+    },
+    {
+      "id": "68fb63afc09c82a74d07d21f",
+      "source": "default",
+      "type": "environment"
+    },
+    {
+      "id": "68fb63c9be7aff394b01681a",
+      "source": "default",
+      "type": "environment"
+    },
+    {
+      "id": "68df9aa45d4e135b130392d0",
+      "source": "achievement",
+      "type": "ceiling"
+    },
+    {
+      "id": "68df9aaf637781242a0b22fa",
+      "source": "achievement",
+      "type": "ceiling"
+    },
+    {
+      "id": "68df9a2d3772634bf40f4f1a",
+      "source": "achievement",
+      "type": "floor"
+    },
+    {
+      "id": "68df9ac5a38a5e37d80df6cd",
+      "source": "achievement",
+      "type": "wall"
+    },
+    {
+      "id": "68df9a14972cf1e1ec07256c",
+      "source": "achievement",
+      "type": "floor"
+    },
+    {
+      "id": "68df9abc5d4e135b130392d2",
+      "source": "achievement",
+      "type": "wall"
+    },
+    {
+      "id": "68df9a925d4e135b130392ce",
+      "source": "achievement",
+      "type": "ceiling"
+    },
+    {
+      "id": "68df9a053772634bf40f4f18",
+      "source": "achievement",
+      "type": "floor"
+    },
+    {
+      "id": "68df9b2642e96f583d042b8c",
+      "source": "achievement",
+      "type": "wall"
+    },
+    {
+      "id": "68df9b2e3772634bf40f4f1c",
+      "source": "achievement",
+      "type": "wall"
+    },
+    {
+      "id": "68df9a9ba38a5e37d80df6cb",
+      "source": "achievement",
+      "type": "ceiling"
+    },
+    {
+      "id": "68df9a222e6cd294e908d1eb",
+      "source": "achievement",
+      "type": "floor"
+    },
+    {
+      "id": "68dfb00742e96f583d042bd2",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68dfafeadfaadbd4eb06539a",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68dfaffe3c5a40e30f0e55b0",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68dfafd82d57066c0d011c86",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "690d4eef8cef6e31cb0d7b88",
+      "source": "default",
+      "type": "voice"
+    },
+    {
+      "id": "68fb7e94d4b0e9617502c1ae",
+      "source": "default",
+      "type": "mannequinPose"
+    },
+    {
+      "id": "68fb7ec2fb3842532002cba7",
+      "source": "default",
+      "type": "mannequinPose"
+    },
+    {
+      "id": "68fb7eb310742e456a0fa857",
+      "source": "default",
+      "type": "mannequinPose"
+    },
+    {
+      "id": "68f15ed4edf2ab313f093498",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68fb35fb2cff66eb7a008ea8",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68fb36c5f91674307c06674d",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68fb36ac1494ff5562048865",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68fb36dbd34d546909014ca7",
+      "source": "achievement",
+      "type": "dogTag"
+    },
+    {
+      "id": "68fb6a28f0b98c76ea0dc313",
+      "source": "achievement",
+      "type": "wall"
+    },
+    {
+      "id": "68f6159355deae75be0f3bb6",
+      "source": "achievement",
+      "type": "shootingRangeMark"
+    },
+    {
+      "id": "68fb6a7cf91c87952f0c4fe5",
+      "source": "achievement",
+      "type": "floor"
+    },
+    {
+      "id": "68fb6aa63545a39de907326f",
+      "source": "achievement",
+      "type": "ceiling"
+    },
+    {
+      "id": "68fb6abe365db7fe8a0e25ef",
+      "source": "achievement",
+      "type": "ceiling"
+    },
+    {
+      "id": "68fb6a703545a39de9073267",
+      "source": "achievement",
+      "type": "floor"
+    },
+    {
+      "id": "68fb6a584e7ecdb1220adfa5",
+      "source": "achievement",
+      "type": "wall"
     }
   ]
 }
