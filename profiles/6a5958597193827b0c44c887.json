@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 48,
+          "Current": 51,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 19,
+          "Current": 23,
           "Maximum": 100
         },
         "Temperature": {
@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1784496549,
+        "UpdateTime": 1784496727,
         "Immortal": false
       },
       "Inventory": {
@@ -13318,21 +13318,6 @@
             }
           },
           {
-            "_id": "07192126064765525240e067",
-            "_tpl": "58ac60eb86f77401897560ff",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 2,
-              "y": 53,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1,
-              "SpawnedInSession": false
-            }
-          },
-          {
             "_id": "07192126065879330591318a",
             "_tpl": "58ac60eb86f77401897560ff",
             "parentId": "664113fa049fd2369707c4eb",
@@ -24988,7 +24973,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 38356,
+            "Progress": 38493,
             "inProgress": true,
             "StartTimestamp": 1784458274,
             "SkipTime": 0,
@@ -25069,7 +25054,7 @@
           },
           "5dd1126571e3fd3f634b1c8b": {
             "Products": [],
-            "Progress": 4297,
+            "Progress": 4434,
             "inProgress": true,
             "StartTimestamp": 1784492329,
             "SkipTime": 0,
@@ -25141,8 +25126,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 30.6573,
-                        "UnitsConsumed": 9.3427
+                        "Value": 30.4646,
+                        "UnitsConsumed": 9.5354
                       }
                     }
                   }
@@ -25595,7 +25580,7 @@
         "HideoutCounters": null,
         "Seed": "d5db93434ad82357bbed8258f249fd83",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784496621,
+        "sptUpdateLastRunTimestamp": 1784496758,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -35611,6 +35596,12 @@
         "version": "2.0.4",
         "author": "GrooveypenguinX",
         "dateAdded": 1784484567
+      },
+      {
+        "name": "Dynamic Maps",
+        "version": "1.1.3",
+        "author": "mpstark",
+        "dateAdded": 1784496727
       }
     ],
     "receivedGifts": [
