@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1784485217,
+        "UpdateTime": 1784485763,
         "Immortal": false
       },
       "Inventory": {
@@ -5121,7 +5121,7 @@
         "HideoutCounters": null,
         "Seed": "3b782031b89edb1f762b80a6fe32cbd9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784485321,
+        "sptUpdateLastRunTimestamp": 1784485829,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5246,7 +5246,38 @@
         "offers": []
       },
       "Achievements": {},
-      "RepeatableQuests": [],
+      "RepeatableQuests": [
+        {
+          "id": "615ffc701c97c768137e719b",
+          "name": "Daily",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 2,
+          "freeChangesAvailable": 2
+        },
+        {
+          "id": "618035d38012292db3081bf0",
+          "name": "Weekly",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        },
+        {
+          "id": "62825ef60e88d037dc1eb426",
+          "name": "Daily_Savage",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        }
+      ],
       "Bonuses": [
         {
           "id": "64f5b9e5fa34f11b380756c0",
@@ -6226,11 +6257,239 @@
     "equipmentBuilds": [],
     "magazineBuilds": []
   },
-  "dialogues": {},
+  "dialogues": {
+    "5a7c2eca46aef81a7ca2145d": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a5d1783a2c53603dca6da15",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1784485763,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": [
+              {
+                "_id": "6a5d1783a2c53603dca6da16",
+                "_tpl": "590c2c9c86f774245b1f03f2",
+                "parentId": "678d4d90fc70718b8c4067ad",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        }
+      ],
+      "_id": "5a7c2eca46aef81a7ca2145d"
+    },
+    "686eea254af06fe1f89b528a": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 1,
+      "Users": [
+        {
+          "_id": "686eea254af06fe1f89b528a",
+          "aid": 2742069,
+          "Info": {
+            "Nickname": "WTTBot",
+            "Side": "Usec",
+            "Level": 69,
+            "MemberCategory": 16,
+            "SelectedMemberCategory": 16
+          }
+        },
+        {
+          "_id": "6a5d0892ee789012bc8e6f18",
+          "aid": 1873057,
+          "Info": {
+            "Nickname": "Jillka",
+            "Side": "Bear",
+            "Level": 1,
+            "MemberCategory": 1026,
+            "SelectedMemberCategory": 1024
+          }
+        }
+      ],
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a5d17aca2c53603dca6da20",
+          "uid": "686eea254af06fe1f89b528a",
+          "type": 13,
+          "dt": 1784485804,
+          "text": "[SYSTEM NOTICE]\r\n-> Status: ACTIVE\r\n    WTT Armory Installation: DETECTED\r\n    Initializing Welcome Protocol...\r\n-> Status: DEPLOYING...\r\n    Dispensing Complimentary Item...\r\n-> Status: COMPLETE\r\n    User Input: NOT REQUIRED",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a5d17aca2c53603dca6da21",
+            "data": [
+              {
+                "_id": "6a5d17aca2c53603dca6da22",
+                "_tpl": "679f2453d1970258c1df3fce",
+                "parentId": "6a5d17aca2c53603dca6da21",
+                "slotId": "main",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da23",
+                "_tpl": "679f24d15ff75ca48f6462a2",
+                "parentId": "6a5d17aca2c53603dca6da22",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da24",
+                "_tpl": "679f24e723451339c041f28d",
+                "parentId": "6a5d17aca2c53603dca6da22",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da25",
+                "_tpl": "679f24e0434b197ed7a10468",
+                "parentId": "6a5d17aca2c53603dca6da22",
+                "slotId": "mod_pistolgrip"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da26",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a5d17aca2c53603dca6da22",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da27",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a5d17aca2c53603dca6da21",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da28",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a5d17aca2c53603dca6da21",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da29",
+                "_tpl": "657025a4bfc87b3a34093250",
+                "parentId": "6a5d17aca2c53603dca6da21",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a5d17aca2c53603dca6da2a",
+                "_tpl": "58864a4f2459770fcc257101",
+                "parentId": "6a5d17aca2c53603dca6da29",
+                "slotId": "cartridges",
+                "upd": {
+                  "StackObjectsCount": 50
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "686eea254af06fe1f89b528a"
+    }
+  },
   "spt": {
     "version": "4.0.13 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "Andern",
+        "version": "3.2.0",
+        "author": "Barlog_M",
+        "dateAdded": 1784485763,
+        "url": "https://github.com/barlog-m/spt-andern"
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1784485763,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "IncreaseClimbHeight",
+        "version": "2.0.0",
+        "author": "redlaser42",
+        "dateAdded": 1784485763
+      },
+      {
+        "name": "Foldables",
+        "version": "1.0.3",
+        "author": "ozen",
+        "dateAdded": 1784485763,
+        "url": "https://github.com/ozen-m/SPT-Foldables"
+      },
+      {
+        "name": "RoguesVRaiders",
+        "version": "0.1.2",
+        "author": "Sipto",
+        "dateAdded": 1784485763
+      },
+      {
+        "name": "Skills Extended",
+        "version": "2.2.2",
+        "author": "Cj",
+        "dateAdded": 1784485763,
+        "url": "https://github.com/CJ-SPT/Skills-Extended"
+      },
+      {
+        "name": "SAIN",
+        "version": "4.4.3",
+        "author": "Solarint",
+        "dateAdded": 1784485763,
+        "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "WTT-Armory",
+        "version": "2.0.5",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784485763
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.7",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784485763
+      },
+      {
+        "name": "WTT-PackNStrapServer",
+        "version": "2.0.4",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784485763
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.20",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784485763
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1784485763,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
     "migrations": {},
