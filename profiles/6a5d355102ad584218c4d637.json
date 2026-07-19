@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 82,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 77,
+          "Current": 98,
           "Maximum": 100
         },
         "Temperature": {
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1784495656,
+        "UpdateTime": 1784496934,
         "Immortal": false
       },
       "Inventory": {
@@ -717,7 +717,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 980000
+              "StackObjectsCount": 960000
             }
           },
           {
@@ -3725,10 +3725,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 0,
+            "PointsEarnedDuringSession": 30,
+            "LastAccess": 1784496991,
             "Id": "HideoutManagement",
-            "Progress": 330
+            "Progress": 360
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -6396,7 +6396,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 1972,
+            "Progress": 2427,
             "inProgress": true,
             "StartTimestamp": 1784494627,
             "SkipTime": 0,
@@ -6838,7 +6838,7 @@
           },
           {
             "type": 1,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
@@ -7309,7 +7309,7 @@
         "HideoutCounters": null,
         "Seed": "6454fd761b31805411459e1b73081ae9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784496596,
+        "sptUpdateLastRunTimestamp": 1784497051,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -7580,7 +7580,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1719766274,
+        "nextResetTime": 1720025474,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -8570,6 +8570,21 @@
           "hasRewards": false,
           "rewardCollected": false,
           "items": {}
+        },
+        {
+          "_id": "6a5d43264754562408bfbcab",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1784496934,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": []
+          },
+          "maxStorageTime": 259200
         }
       ],
       "_id": "5a7c2eca46aef81a7ca2145d"
@@ -8600,7 +8615,7 @@
     },
     "54cb57776803fa99248b456e": {
       "attachmentsNew": 0,
-      "new": 1,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -8621,8 +8636,92 @@
   },
   "spt": {
     "version": "4.0.13 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "Andern",
+        "version": "3.2.0",
+        "author": "Barlog_M",
+        "dateAdded": 1784496934,
+        "url": "https://github.com/barlog-m/spt-andern"
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1784496934,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "IncreaseClimbHeight",
+        "version": "2.0.0",
+        "author": "redlaser42",
+        "dateAdded": 1784496934
+      },
+      {
+        "name": "Foldables",
+        "version": "1.0.3",
+        "author": "ozen",
+        "dateAdded": 1784496934,
+        "url": "https://github.com/ozen-m/SPT-Foldables"
+      },
+      {
+        "name": "RoguesVRaiders",
+        "version": "0.1.2",
+        "author": "Sipto",
+        "dateAdded": 1784496934
+      },
+      {
+        "name": "Skills Extended",
+        "version": "2.2.2",
+        "author": "Cj",
+        "dateAdded": 1784496934,
+        "url": "https://github.com/CJ-SPT/Skills-Extended"
+      },
+      {
+        "name": "SAIN",
+        "version": "4.4.3",
+        "author": "Solarint",
+        "dateAdded": 1784496934,
+        "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "Fair Bot Health",
+        "version": "1.0.2",
+        "author": "waldfee",
+        "dateAdded": 1784496934
+      },
+      {
+        "name": "WTT-Armory",
+        "version": "2.0.5",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784496934
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.7",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784496934
+      },
+      {
+        "name": "WTT-PackNStrapServer",
+        "version": "2.0.4",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784496934
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.20",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1784496934
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1784496934,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
     "migrations": {},
