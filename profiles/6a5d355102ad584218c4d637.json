@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 83,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 75,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1784521544,
+        "UpdateTime": 1784555278,
         "Immortal": false
       },
       "Inventory": {
@@ -3000,6 +3000,72 @@
           {
             "_id": "664113fa049fd2369707c4ec",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eb5",
+            "_tpl": "679f24d15ff75ca48f6462a2",
+            "parentId": "6a5de32e0bd4c251bce24eb4",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eb6",
+            "_tpl": "679f24e0434b197ed7a10468",
+            "parentId": "6a5de32e0bd4c251bce24eb4",
+            "slotId": "mod_pistolgrip"
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eb7",
+            "_tpl": "679f24e723451339c041f28d",
+            "parentId": "6a5de32e0bd4c251bce24eb4",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eb8",
+            "_tpl": "679f24edc0aba3ffa139b03f",
+            "parentId": "6a5de32e0bd4c251bce24eb4",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eb4",
+            "_tpl": "679f2453d1970258c1df3fce",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 3,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eba",
+            "_tpl": "679f24edc0aba3ffa139b03f",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 4,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6a5de32e0bd4c251bce24eb9",
+            "_tpl": "679f24edc0aba3ffa139b03f",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 4,
+              "r": "Horizontal"
+            }
           }
         ],
         "equipment": "6a5d39280fc44f4448cfebe2",
@@ -5889,7 +5955,7 @@
         "HideoutCounters": null,
         "Seed": "6454fd761b31805411459e1b73081ae9",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784521782,
+        "sptUpdateLastRunTimestamp": 1784560744,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -6160,7 +6226,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1721407874,
+        "nextResetTime": 1721494274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -9356,6 +9422,26 @@
             "time": "04:08",
             "location": "factory4_day"
           }
+        },
+        {
+          "_id": "6a5de32e0bd4c251bce24eb3",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 8,
+          "dt": 1784537902,
+          "templateId": "58fe0e4586f774728248ca13 3",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5de32e0bd4c251bce24eb2",
+            "data": []
+          },
+          "maxStorageTime": 1209600,
+          "systemData": {
+            "date": "20.07.2026",
+            "time": "04:08",
+            "location": "factory4_day"
+          }
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -9575,99 +9661,10 @@
     "extraRepeatableQuests": {}
   },
   "inraid": {},
-  "insurance": [
-    {
-      "scheduledTime": 1784531240,
-      "traderId": "54cb50c76803fa8b248b4571",
-      "maxStorageTime": 1209600,
-      "systemData": {
-        "date": "20.07.2026",
-        "time": "04:08",
-        "location": "factory4_day"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e4586f774728248ca13 3",
-      "items": [
-        {
-          "_id": "6a5d39360fc44f4448cfedb8",
-          "_tpl": "679f2453d1970258c1df3fce",
-          "parentId": "6a5d39280fc44f4448cfebe2",
-          "slotId": "Holster",
-          "upd": {
-            "Repairable": {
-              "Durability": 100,
-              "MaxDurability": 100
-            },
-            "FireMode": {
-              "FireMode": "single"
-            }
-          }
-        },
-        {
-          "_id": "6a5d39360fc44f4448cfedb9",
-          "_tpl": "679f24d15ff75ca48f6462a2",
-          "parentId": "6a5d39360fc44f4448cfedb8",
-          "slotId": "mod_barrel"
-        },
-        {
-          "_id": "6a5d39360fc44f4448cfedbb",
-          "_tpl": "679f24e0434b197ed7a10468",
-          "parentId": "6a5d39360fc44f4448cfedb8",
-          "slotId": "mod_pistolgrip"
-        },
-        {
-          "_id": "6a5d39360fc44f4448cfedba",
-          "_tpl": "679f24e723451339c041f28d",
-          "parentId": "6a5d39360fc44f4448cfedb8",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "6a5d39360fc44f4448cfedbe",
-          "_tpl": "679f24edc0aba3ffa139b03f",
-          "parentId": "6a5d39360fc44f4448cfedb8",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "6a5d39360fc44f4448cfedbd",
-          "_tpl": "679f24edc0aba3ffa139b03f",
-          "parentId": "6a5d39280fc44f4448cfec02",
-          "slotId": "pocket1",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a5d39360fc44f4448cfedbc",
-          "_tpl": "679f24edc0aba3ffa139b03f",
-          "parentId": "6a5d39280fc44f4448cfec02",
-          "slotId": "pocket2",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        }
-      ]
-    }
-  ],
+  "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
-    "54cb50c76803fa8b248b4571": {
-      "686e34696c2a18ed6b0eafe9": {
-        "count": 1,
-        "purchaseTimestamp": 1784521370
-      },
-      "686e346a6c2a18ed6b0eb099": {
-        "count": 1,
-        "purchaseTimestamp": 1784521375
-      },
-      "686e34626c2a18ed6b0eac59": {
-        "count": 220,
-        "purchaseTimestamp": 1784521418
-      }
-    },
+    "54cb50c76803fa8b248b4571": {},
     "5c0647fdd443bc2504c2d371": {},
     "5935c25fb3acc3127c3d8cd9": {},
     "6617beeaa9cfa777ca915b7c": {},
